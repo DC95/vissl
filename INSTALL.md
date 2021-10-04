@@ -1,6 +1,6 @@
 # Installation
 
-Our installation is simple and we provide pre-built binaries (pip, conda) and also instructions for building from source (pip, conda).
+Our installation is  very simple and we provide pre-built binaries (pip, conda) and also instructions for building from source (pip, conda).
 
 ## Table of Contents
 - [Requirements](#requirements)
